@@ -3,3 +3,4 @@
 3. Runtime
 4. Constructor
 5. Polymorphism
+6. Encapsulation
